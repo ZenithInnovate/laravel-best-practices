@@ -1,9 +1,9 @@
 [
     {
         "code_product": "BT-001",
-        "domain": "buku-tamu.test",
-        "name": "Contoh",
-        "license": "1234567890",
-        "expired_date": "2025-12-31"
+        "domain": "butarjo.my.id",
+        "name": "Pak Lukman",
+        "license": "4aa9ab98-ad3b-4a44-b559-94050e22ebb9",
+        "expired_date": "2025-07-18"
     }
 ]
