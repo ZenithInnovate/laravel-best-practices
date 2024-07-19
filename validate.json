@@ -1,6 +1,13 @@
 [
     {
         "code_product": "BT-001",
+        "domain": "127.0.0.1",
+        "name": "Localhost",
+        "license": "568d2196-2cf3-454b-8e6d-b97d12e61729",
+        "expired_date": "2030-12-31"
+    },
+    {
+        "code_product": "BT-001",
         "domain": "butarjo.my.id",
         "name": "Pak Lukman",
         "license": "4aa9ab98-ad3b-4a44-b559-94050e22ebb9",
